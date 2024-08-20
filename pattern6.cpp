@@ -1,3 +1,10 @@
+// print the pattern:
+// 5
+// 54
+// 543
+// 5432
+// 54321
+
 #include <iostream>
 using namespace std;
 
