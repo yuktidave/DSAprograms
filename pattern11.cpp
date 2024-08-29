@@ -1,3 +1,10 @@
+// print the pattern:
+// AAAAA
+// BBBBB
+// CCCCC
+// DDDDD
+// EEEEE
+
 #include <iostream>
 using namespace std;
 
