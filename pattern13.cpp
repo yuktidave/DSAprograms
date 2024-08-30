@@ -1,3 +1,10 @@
+// print the pattern:
+// ABCDE
+// FGHIJ
+// KLMNO
+// PQRST
+// UVWXY
+
 #include <iostream>
 using namespace std;
 
