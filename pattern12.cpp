@@ -1,3 +1,10 @@
+// print the pattern:
+// ABCDE
+// ABCDE
+// ABCDE
+// ABCDE
+// ABCDE
+
 #include <iostream>
 using namespace std;
 
